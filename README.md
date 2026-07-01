@@ -38,3 +38,9 @@ AI Engineering Student • Full Stack Developer • AWS Cloud Enthusiast
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,express,mongodb,mysql,aws,docker,git,github,vscode,tensorflow,pytorch&perline=8"/>
 </p>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amogh7110&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amogh7110&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
