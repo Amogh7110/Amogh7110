@@ -32,3 +32,9 @@ AI Engineering Student • Full Stack Developer • AWS Cloud Enthusiast
 - Kubernetes
 - Vector Databases
 - System Design
+  
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,express,mongodb,mysql,aws,docker,git,github,vscode,tensorflow,pytorch&perline=8"/>
+</p>
