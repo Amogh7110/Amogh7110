@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Amogh Patel</h1>
 
-<!--
-**Amogh7110/Amogh7110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI Engineering Student • Full Stack Developer • AWS Cloud Enthusiast
+</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Full+Stack+Developer;AWS+Cloud+Learner;Machine+Learning+Enthusiast;Building+Real+World+AI+Projects"/>
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 AI Engineering Student
+
+💻 Passionate about Artificial Intelligence, Machine Learning and Full Stack Development
+
+☁️ AWS Academy Learner
+
+🤖 Exploring Generative AI, LLMs and AI Agents
+
+🏥 Currently building an AI Powered Hospital Management System
+
+🚀 Goal: Build impactful AI products that solve real-world problems.
+
+## 🌱 Currently Learning
+
+- Generative AI
+- LangChain
+- RAG
+- AI Agents
+- AWS SageMaker
+- Docker
+- Kubernetes
+- Vector Databases
+- System Design
