@@ -44,3 +44,29 @@ AI Engineering Student • Full Stack Developer • AWS Cloud Enthusiast
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amogh7110&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amogh7110&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Amogh7110&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+## 🌐 Portfolio
+
+🔗 https://amogh7110.github.io/Portfolio/
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/amogh-patel-42a261307/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Amogh7110">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://amogh7110.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
